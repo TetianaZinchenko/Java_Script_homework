@@ -14,6 +14,9 @@ let city = 'Kharkov',
     stadium = true;
 let information = city + ' ' + country + ' ' + population + ' ' + stadium;
 console.log(information);
+let information1 = `${city} ${country} ${population} ${stadium}`;
+console.log(information1);
+
 /* 
     Задание 2:
     
